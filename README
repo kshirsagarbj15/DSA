@@ -1,0 +1,8 @@
+						"Library Management System"
+
+MIS : 141503006
+Name : Bhagyashri Jagdish Kshirsagar
+
+	Library Management System project is implemented in 'C' language. This is use by administrator it is quite simple.For using this system user/administrator have open a file in that usrname and password is stored and administrator create the accounts of adding books and member/student. In Student Section MIS ID of student get registered for use of library. User can add new student member and view it.
+Student have avaliable card means student have already 5 card when they issue book it will reduced the card.
+	Another section is Administator, in which user can add books and depend on book id and view details of book. Also book search can be done on the basis of author or book name. Books can be issued by the unique id of book and in file status remains 0.Also student return book and status remain 1.Record get sorted and display.
